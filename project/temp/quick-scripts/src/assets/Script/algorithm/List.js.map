@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\algorithm\\List.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export default interface List<E> {\r\n  push(e:E):void;\r\n  pop():E;\r\n  size():number;\r\n  isEmpty(): boolean;\r\n}"]}
